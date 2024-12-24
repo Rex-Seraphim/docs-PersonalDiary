@@ -3,9 +3,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // base: "/docs-demo/",
+  base: "/docs-PersonalDiary/",
 
-  head:[["link",{rel: "icon", href: "/docs-demo/logo.png"}]],
+  head:[["link",{rel: "icon", href: "/docs-PersonalDiary/logo.png"}]],
 
   title: "Personal-Diary",
   description: "A VitePress Site",
