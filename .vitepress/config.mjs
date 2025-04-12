@@ -25,14 +25,14 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: 'Markdown 演示', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Runtime API Examples', link: '/api-examples' },
         ]
       },
       {
-        text: 'Examples',
+        text: '样例',
         items: [
-          { text: 'Markdown 演示', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Markdown 演示', link: '/markdown-examples_cn' },
+          { text: 'Runtime API Examples', link: '/api-examples_cn' }
         ]
       }
       
